@@ -59,4 +59,4 @@ Ensure that the `glove.twitter.27B.100d.txt`, `train.txt.txt`, and `test.txt.txt
 
 ## Developed By
 
-*   **Muhammad Zeeshan Qasim
+*   Muhammad Zeeshan Qasim
