@@ -57,7 +57,6 @@ Ensure that the `glove.twitter.27B.100d.txt`, `train.txt.txt`, and `test.txt.txt
 2.  **Open the Jupyter/Colab notebook.**
 3.  **Run all cells** sequentially. The notebook will perform data loading, preprocessing, model training, and evaluation.
 
-## Group Members
+## Developed By
 
-*   **Muhammad Zeeshan Qasim** - SAP ID: 70137048
-*   **Nabeel Farooq Ahmad** - SAP ID: 70137031
+*   **Muhammad Zeeshan Qasim
